@@ -1,0 +1,28 @@
+{
+  "id": "tincture-bottle",
+  "name": "Tincture Bottles",
+  "description": "Child resistant dropper bottles designed for stylish CBD oil storage.",
+  "seo_title": "Cannabis Tincture Bottles",
+  "seo_description": "Fully affordable customizable cannabis tincture bottles for CBD oil storage. Customization options including shape, size, color, labelling and printing.",
+  "seo_image": "https://rxdcoassets.b-cdn.net/10_Tincture-prop.png?fit=crop&width=1250&auto=format&dpr=2",
+  "advantages": [
+    "Multiple sizes",
+    "Glass color options (matte black, matte white, clear, blue, amber, green)",
+    "Certified child-resistant",
+    "Custom design options",
+    "Perfect for CBD concentrate",
+    "Competitive wholesale pricing"
+  ],
+  "hero_image": "https://rxdcoassets.b-cdn.net/10_Tincture-prop.png?fit=crop&width=1250&auto=format&dpr=2",
+  "first_image": "https://rxdcoassets.b-cdn.net/Render-10.png?fit=crop&width=532&height=544&fm=jpeg&auto=format",
+  "first_title": "Custom aesthetic",
+  "first_description": "Available in a range of glass colors with printing and labelling options, our dropper bottles can be customized to fit with your brand’s aesthetic.",
+  "second_image": "https://rxdcoassets.b-cdn.net/Render-10.png?fit=crop&width=505&height=448&fm=jpeg&auto=format",
+  "second_title": "Budget friendly",
+  "second_description": "Our traditional tincture bottles offer an attractive and affordable solution for CBD concentrate packaging, storage and display.",
+  "third_image": "https://rxdcoassets.b-cdn.net/Render-10.png?fit=crop&width=708&height=470&fm=jpeg&auto=format",
+  "third_title": "Safe and secure",
+  "third_description": "Certified child resistant bottles with the option of adding tamper evident rings for further peace of mind.",
+  "order_enabled": true,
+  "size_enabled": false
+}

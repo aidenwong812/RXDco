@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg aria-labelledby="title" width="1440px" height="344px" viewBox="0 0 1440 344" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Decorative Curve</title>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-10" transform="translate(-364.000000, 8.000000)">
+            <path d="M0,284.434728 L231.648075,128.080431 C341.531356,53.9130843 488.733179,68.9481937 581.353034,163.799094 C674.683552,259.377777 822.049715,276.89261 935.183266,205.852693 L1045.80448,136.390348 C1161.39507,63.8075796 1306.01716,55.1747794 1429.42142,113.491437 L1738.25298,259.434728 L1738.25298,259.434728 L1923.29931,259.434728" id="Line" stroke="#D1D5D5" stroke-linecap="square" transform="translate(961.649655, 163.799094) scale(-1, -1) translate(-961.649655, -163.799094) "></path>
+            <circle id="Oval" fill="#99245E" cx="1671" cy="214.163461" r="25"></circle>
+        </g>
+    </g>
+</svg>

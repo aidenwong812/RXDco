@@ -1,0 +1,58 @@
+[
+  {
+    "id": "atid",
+    "name": "ATID",
+    "description": "Protect your Flower, Edibles, Children, and our Planet with the patented, premium line of certified child-resistant, biodegradable cannabis paper containers.",
+    "video": "https://rxdcoassets.b-cdn.net/Atid_2023-08-03-134857_xrlr.mp4",
+    "image": "https://rxdcoassets.b-cdn.net/1_Atid.png?fit=crop&height=300&fm=jpeg&auto=format"
+  },
+  {
+    "id": "bi-tri-tubes",
+    "name": "Bi-Tri Tubes",
+    "description": "Multi-Pack, child-resistant pre-roll tubes that maintain product integrity and potency.",
+    "video": "https://rxdcoassets.b-cdn.net/Bi_Tri_08.23_2023-08-14-143420_dwlk.mp4",
+    "image": "https://rxdcoassets.b-cdn.net/Bi_Tri_Still0_08.23.png?fit=crop&height=300&fm=jpeg&auto=format"
+  },
+  {
+    "id": "c-series",
+    "name": "C Series",
+    "description": "Premium cannabis packaging with unmatched form and function",
+    "video": "https://rxdcoassets.b-cdn.net/c2_08.23_2023-08-14-153153_btee.mp4",
+    "image": "https://rxdcoassets.b-cdn.net/c2-still0_08.23.png?fit=crop&height=860&fm=jpeg&auto=format&dpr=2"
+  },
+  {
+    "id": "pop-tops",
+    "video": "https://rxdcoassets.b-cdn.net/Popcap_2_08.23_2023-08-14-154557_hvvd.mp4",
+    "description": "Child resistant cannabis pop top bottles designed to seal in freshness.",
+    "name": "Pop Tops",
+    "image": "https://rxdcoassets.b-cdn.net/Popcap_Still0_08.23.png?fit=crop&height=860&fm=jpeg&auto=format&dpr=2"
+  },
+  {
+    "id": "pearl-loc",
+    "video": "https://rxdcoassets.b-cdn.net/Pearloc_14.08.23_2023-08-14-154354_efmc.mp4",
+    "description": "Luxury Paper-based, child resistant boxes and tubes for vape hardware and cannabis products.",
+    "name": "PearlLoc",
+    "image": "https://rxdcoassets.b-cdn.net/PearlLoc-1.png?fit=crop&height=300&fm=jpeg&auto=format"
+  },
+  {
+    "id": "glass-jar",
+    "description": "Sleek, stylish custom jars to showcase your cannabis flower and edibles.",
+    "video": "https://rxdcoassets.b-cdn.net/GlassJar_08.23_2023-08-14-153450_pwbc.mp4",
+    "name": "Glass Jars",
+    "image": "https://rxdcoassets.b-cdn.net/Glass-Jar_Still0_14.08.23.png?fit=crop&height=300&fm=jpeg&auto=format"
+  },
+  {
+    "id": "child-resistant-bag",
+    "video": "https://rxdcoassets.b-cdn.net/CR_Bag_v3.mp4",
+    "description": "Laminated mylar bags for child safe, discreet cannabis product storage, transport and display.",
+    "name": "Child-resistant Bags",
+    "image": "https://rxdcoassets.b-cdn.net/4_CR_Bags_Col_Fix_20002.png?fit=crop&height=300&fm=jpeg&auto=format"
+  },
+  {
+    "id": "syringes",
+    "description": "A mess-free cannabis filling solution for cartridges and precision dosing",
+    "name": "Syringes",
+    "video": "https://rxdcoassets.b-cdn.net/Syringe_2_2023-08-14-154712_whwh.mp4",
+    "image": "https://rxdcoassets.b-cdn.net/Syringe-Updated.png?fit=crop&height=300&fm=jpeg&auto=format"
+  }
+]

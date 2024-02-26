@@ -1,0 +1,96 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('./products-swiper.css');
+@import url('./why-us.css');
+@import url('./blog-detail.css');
+@import url('./tool-tip.css');
+
+@font-face {
+  font-family: "Radikal Light";
+  src: url("/fonts/RadikalLight/font.woff") format("truetype");
+}
+@font-face {
+  font-family: "Radikal Medium";
+  src: url("/fonts/RadikalMedium/font.woff") format("truetype");
+}
+
+* {
+  -webkit-font-smoothing: antialiased !important;
+}
+
+@layer utilities {
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}
+html,
+body {
+  background-color: #f0f0f0;
+  padding: 0;
+  margin: 0;
+  overflow-x: hidden;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.scroll-snap-x-mandatory {
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+}
+
+@media (min-width: 640px) {
+  .scroll-snap-x-mandatory {
+    scroll-padding-left: 2rem;
+    scroll-padding-right: 2rem;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+button {
+  -webkit-tap-highlight-color: transparent !important;
+}
+
+button.xmint-btn {
+  background-color: blueviolet;
+}
+
+.inspiration-trending {
+  display: -webkit-box; 
+  display: -ms-flexbox;
+  display: flex;
+  margin-left: -2rem;
+  width: auto;
+}
+
+.inspiration-trending-column {
+  padding-left: 2rem;
+  background-clip: padding-box;
+}
+
+@media screen and (max-width: 768px) {
+  .inspiration-trending {
+    margin-left: -1rem;
+  }
+  .inspiration-trending-column {
+    padding-left: 1rem;
+  }
+}
+

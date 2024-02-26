@@ -1,0 +1,50 @@
+[
+  {
+    "name": "C Series",
+    "description": "Sleek, seamless containers for concentrates.",
+    "id": "c-series",
+    "image": "https://rxdcoassets.b-cdn.net/c-series-resized.png?fit=crop&width=520&height=520&fm=jpeg&auto=format"
+  },
+  {
+    "name": "Pop-top",
+    "image": "https://rxdcoassets.b-cdn.net/Popcaps_Final_2023-07-31-182707_frgv.png?fit=crop&width=520&height=520&fm=jpeg&auto=format",
+    "description": "Perfect for flower &amp; edibles. Keeps the freshness locked in.",
+    "id": "pop-tops"
+  },
+  {
+    "name": "C Series",
+    "image": "https://rxdcoassets.b-cdn.net/c-series-resized.png?fit=crop&width=520&height=520&fm=jpeg&auto=format",
+    "description": "Sleek, seamless containers for concentrates.",
+    "id": "c-series"
+  },
+  {
+    "name": "ATID",
+    "image": "https://rxdcoassets.b-cdn.net/Atid_2022-08-09-171324_xnzt.png?fit=crop&width=520&height=520&fm=jpeg&auto=format",
+    "description": "The world’s first line of certified child resistant, 100% compostable paper cans.",
+    "id": "atid"
+  },
+  {
+    "description": "Revolutionary auto-loading tincture bottles with certified child resistant caps.",
+    "name": "product",
+    "id": "droploc",
+    "image": "https://rxdcoassets.b-cdn.net/Droploc_Hero_v2_2023-07-31-182430_hgaa.png?fit=crop&width=520&height=520&fm=jpeg&auto=format"
+  },
+  {
+    "name": "PearlLoc",
+    "description": "Paper-based, child resistant secondary packaging for vape hardware and cannabis products.",
+    "id": "pearl-loc",
+    "image": "https://rxdcoassets.b-cdn.net/Pearloc_Update_2_2022-08-09-171337_npks.png?fit=crop&width=520&height=520&fm=jpeg&auto=format"
+  },
+  {
+    "name": "Axis Vapes",
+    "image": "https://rxdcoassets.b-cdn.net/Axis_Feature.png?fit=crop&width=520&height=520&fm=jpeg&auto=format",
+    "id": "axis-vape",
+    "description": "Superior, quality assured vaping hardware at unbeatable prices, top tier performance with zero risk."
+  },
+  {
+    "name": "PET Jars",
+    "image": "https://rxdcoassets.b-cdn.net/PET_2022-08-09-171049_kpfa.png?fit=crop&width=520&height=520&fm=jpeg&auto=format",
+    "id": "plastic-jar",
+    "description": "Affordable price packages make our plastic jars a cost-effective solution for flower and edible packaging."
+  }
+]

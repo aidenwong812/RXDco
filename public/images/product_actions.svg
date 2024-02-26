@@ -1,0 +1,12 @@
+<svg aria-labelledby="title" width="1440" height="439" viewBox="0 0 1440 439" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Decorative Circle</title>
+  <defs>
+    <path id="a" d="M0 0h1440v439H0z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <mask id="b" fill="#fff">
+      <use xlink:href="#a"/>
+    </mask>
+    <path d="M-244 226l76-46c131-80 300-54 401 60a454 454 0 00434 144l291-61c89-19 180-12 264 19 86 32 176 52 267 58l558 39h0" stroke="#67DAA0" stroke-linecap="square" mask="url(#b)" transform="rotate(180 751 240)"/>
+  </g>
+</svg>

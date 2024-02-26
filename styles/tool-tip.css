@@ -1,0 +1,7 @@
+.react-tooltip__show {
+    opacity: 1 !important;
+}
+
+.react-tooltip-arrow {
+    display: none !important;
+}

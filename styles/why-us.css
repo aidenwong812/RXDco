@@ -1,0 +1,27 @@
+.why-us__decor--1 {
+    top: 85px;
+    right: -88px;
+    position: absolute;
+    z-index: 1;
+}
+
+.why-us__decor--2 {
+    top: 362px;
+    left: 0;
+    position: absolute;
+    z-index: 1;
+}
+
+.why-us__decor--3 {
+    top: 614px;
+    left: -61px;
+    position: absolute;
+    z-index: 1;
+}
+
+.why-us__decor--4 {
+    top: 1200px;
+    right: -8px;
+    position: absolute;
+    z-index: 1;
+}

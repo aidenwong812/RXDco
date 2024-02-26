@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg aria-labelledby="title" width="1440px" height="501px" viewBox="0 0 1440 501" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Decorative Line</title>
+    <g id="1.-Homepage---OK" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desgin-4" transform="translate(0.000000, -1502.000000)">
+            <g id="Group-23" transform="translate(-373.000000, 1502.000000)">
+                <path d="M301.99392,112.036387 L403.317702,74.4463906 C528.962703,27.8334919 669.493078,45.962358 779.195052,122.935766 C892.474787,202.419543 1029.83394,240.113922 1167.81599,229.581916 L1363.37763,214.654927 C1542.0987,201.013359 1720.22996,247.719835 1869.26409,347.29966 C2011.43036,442.290602 2193.69366,453.497777 2346.42673,376.639879 L2593,252.559981 L2593,252.559981" id="Line" stroke="#D1D5D5" stroke-linecap="square" transform="translate(1296.500000, 250.500000) scale(-1, 1) translate(-1296.500000, -250.500000) "></path>
+                <circle id="Oval" fill="#99245E" cx="1572" cy="223" r="28"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

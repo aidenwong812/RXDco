@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg aria-labelledby="title" width="233px" height="168px" viewBox="0 0 233 168" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Decorative Circle</title>
+    <g id="3.-Services---OK" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Development" transform="translate(-1281.000000, -1080.000000)">
+            <g id="Group-8" transform="translate(1281.000000, 1080.000000)">
+                <circle id="Oval" fill="#5AB3F2" cx="149" cy="84" r="84"></circle>
+                <line x1="0.5" y1="59.5" x2="129.5" y2="59.5" id="Line-2" stroke="#D1D5D5" stroke-linecap="square"></line>
+            </g>
+        </g>
+    </g>
+</svg>

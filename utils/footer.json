@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Products",
+    "link": "/products"
+  },
+  {
+    "name": "Branding",
+    "link": "/services/branding"
+  },
+  {
+    "name": "Development",
+    "link": "/services/development"
+  },
+  {
+    "name": "Sourcing",
+    "link": "/services/sourcing"
+  },
+  {
+    "name": "Inspiration",
+    "link": "/inspiration"
+  },
+  {
+    "name": "Why Us",
+    "link": "/why-us"
+  },
+  {
+    "name": "Contact",
+    "link": "/contact"
+  },
+  {
+    "name": "Blog",
+    "link": "/blog"
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "id": "exit-bag",
+  "name": "Exit Bags",
+  "description": "Child safe laminated bags for cannabis products.",
+  "seo_title": "Cannabis Exit Bags | Custom Sizes | Wholesale",
+  "seo_description": "Fully affordable customizable exit bags for cannabis flower and edibles. Customization options including shape, size, color, labelling and printing.",
+  "seo_image": "https://rxdcoassets.b-cdn.net/3_Exit_Bag-prop.png?fit=crop&width=1250&auto=format&dpr=2",
+  "advantages": [
+    "Resealable",
+    "Scent-proof",
+    "Child-resistant options",
+    "Custom sizing and design",
+    "Affordable price packages",
+    "Competitive wholesale pricing"
+  ],
+  "hero_image": "https://rxdcoassets.b-cdn.net/3_Exit_Bag-prop.png?fit=crop&width=1250&auto=format&dpr=2",
+  "first_image": "https://rxdcoassets.b-cdn.net/Render-2.png?fit=crop&width=532&height=544&fm=jpeg&auto=format",
+  "first_title": "Extra protection",
+  "first_description": "Designed as an extra layer of protection and discretion for products with non-child-resistant packaging.",
+  "second_image": "https://rxdcoassets.b-cdn.net/Render-2.png?fit=crop&width=505&height=448&fm=jpeg&auto=format",
+  "second_title": "Custom look",
+  "second_description": "Customization options including size, colour, logo branding and printing let you transform the exit bags to fit your brand.",
+  "third_image": "https://rxdcoassets.b-cdn.net/Render-2.png?fit=crop&width=708&height=470&fm=jpeg&auto=format",
+  "third_title": "Budget friendly",
+  "third_description": "Our affordable price packages make the exit bags a safe, cost-effective solution for products with non-child-resistant packaging.",
+  "order_enabled": true,
+  "size_enabled": false
+}

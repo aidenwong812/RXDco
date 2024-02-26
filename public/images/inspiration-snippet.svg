@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg aria-labelledby="title" width="1441px" height="339px" viewBox="0 0 1441 339" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Decorative Line</title>
+    <defs>
+        <polygon id="path-1" points="0.32496419 0.660564038 1440.32496 0.660564038 1440.32496 338.660564 0.32496419 338.660564"></polygon>
+    </defs>
+    <g id="3.-Services---OK" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Line">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask"></g>
+            <path d="M1670.33104,154.696951 L1538.17949,105.670192 C1436.36818,67.8993295 1321.80446,98.3375852 1252.16638,181.660564 C1193.87636,251.405428 1090.08358,260.691415 1020.33872,202.401396 C1016.30562,199.030688 1012.4363,195.468708 1008.74408,191.727705 L972.160302,154.660564 C875.255248,56.4751589 724.892557,34.6770351 604.094893,101.302013 L491.03268,163.660564 C306.928742,265.201606 76.644162,221.580783 -57.5702776,59.7434338 L-200,-112 L-200,-112" stroke="#D1D5D5" stroke-linecap="square" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>

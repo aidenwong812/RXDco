@@ -1,0 +1,140 @@
+[
+  {
+    "id": "bi-tri-tubes",
+    "name": "Bi-Tri Tubes",
+    "image": "https://rxdcoassets.b-cdn.net/Bi_Tri_Still0_08.23.png?fit=fit&width=80&height=80&fm=jpeg&auto=format",
+    "middle_image": "https://rxdcoassets.b-cdn.net/Bi_Tri_Still0_08.23.png?fit=fit&width=1080&height=1080&fm=jpeg&auto=format&dpr=2",
+    "description": "Multi-Pack, child-resistant pre-roll tubes that maintain product integrity and potency."
+  },
+  {
+    "id": "c-series",
+    "name": "C Series",
+    "image": "https://rxdcoassets.b-cdn.net/c2-still0_08.23.png?fit=fit&width=80&height=80&fm=jpeg&auto=format",
+    "middle_image": "https://rxdcoassets.b-cdn.net/c2-still0_08.23.png?fit=fit&width=244&height=288&fm=jpeg&auto=format",
+    "favorite": true,
+    "purchased_count": 90,
+    "description": "Premium cannabis packaging with unmatched form and function",
+    "is_best_seller": true
+  },
+  {
+    "id": "atid",
+    "image": "https://rxdcoassets.b-cdn.net/1_Atid.png?fit=fit&width=80&height=80&fm=jpeg&auto=format",
+    "middle_image": "https://rxdcoassets.b-cdn.net/1_Atid.png?fit=fit&width=244&height=288&fm=jpeg&auto=format",
+    "name": "ATID",
+    "favorite": true,
+    "purchased_count": 100,
+    "is_new": true,
+    "description": "Protect your Flower, Edibles, Children, and our Planet with the patented, premium line of certified child-resistant, biodegradable cannabis paper containers."
+  },
+  {
+    "id": "child-resistant-bag",
+    "image": "https://rxdcoassets.b-cdn.net/4_CR_Bags_Col_Fix_20002.png?fit=fit&width=80&height=80&fm=jpeg&auto=format",
+    "middle_image": "https://rxdcoassets.b-cdn.net/4_CR_Bags_Col_Fix_20002.png?fit=fit&width=244&height=288&fm=jpeg&auto=format",
+    "name": "Child-resistant Bags",
+    "favorite": true,
+    "purchased_count": 30,
+    "description": "Laminated mylar bags for child safe, discreet cannabis product storage, transport and display."
+  },
+  {
+    "id": "tin-box",
+    "image": "https://rxdcoassets.b-cdn.net/10_Tin-Box.png?fit=fit&width=1080&height=1080&fm=jpeg&auto=format&dpr=2",
+    "name": "Pre-Roll Tins",
+    "description": "Fully customizable pre-roll tin packaging that are great for edibles too!     Customization options include: shape, size, color, labeling and printing.",
+    "middle_image": "https://rxdcoassets.b-cdn.net/10_Tin-Box.png?fit=fit&width=1080&height=1080&fm=jpeg&auto=format&dpr=2"
+  },
+  {
+    "id": "preroll-pop-tops",
+    "image": "https://rxdcoassets.b-cdn.net/6_Pre-Roll-Pop_2023-08-03-133300_eavt.png?fit=fit&width=80&height=80&fm=jpeg&auto=format",
+    "name": "Pre-roll Pop Tops",
+    "description": "Child resistant custom cannabis pop tops perfectly proportioned for pre-rolls.",
+    "middle_image": "https://rxdcoassets.b-cdn.net/6_Pre-Roll-Pop_2023-08-03-133300_eavt.png?fit=fit&width=1080&height=1080&fm=jpeg&auto=format&dpr=2"
+  },
+  {
+    "id": "droploc",
+    "name": "DropLoc",
+    "image": "https://rxdcoassets.b-cdn.net/7_Droploc_2023-08-03-132936_htxs.png?fit=fit&width=80&height=80&fm=jpeg&auto=format",
+    "middle_image": "https://rxdcoassets.b-cdn.net/7_Droploc_2023-08-03-132936_htxs.png?fit=fit&width=1080&height=1080&fm=jpeg&auto=format&dpr=2",
+    "description": "Revolutionary auto-loading cannabis tincture bottles with certified child resistant caps.",
+    "is_new": true
+  },
+  {
+    "id": "syringes",
+    "name": "Syringes",
+    "image": "https://rxdcoassets.b-cdn.net/Syringe-Updated.png?fit=fit&width=80&height=80&fm=jpeg&auto=format",
+    "middle_image": "https://rxdcoassets.b-cdn.net/Syringe-Updated.png?fit=fit&width=1080&height=1080&fm=jpeg&auto=format&dpr=2",
+    "description": "A mess-free cannabis filling solution for cartridges and precision dosing"
+  },
+  {
+    "id": "pearl-loc",
+    "image": "https://rxdcoassets.b-cdn.net/PearlLoc-1.png?fit=fit&width=80&height=80&fm=jpeg&auto=format",
+    "middle_image": "https://rxdcoassets.b-cdn.net/PearlLoc-1.png?fit=fit&width=244&height=288&fm=jpeg&auto=format",
+    "name": "PearlLoc",
+    "description": "Luxury Paper-based, child resistant boxes and tubes for vape hardware and cannabis products.",
+    "is_featured": true
+  },
+
+  {
+    "id": "pop-tops",
+    "image": "https://rxdcoassets.b-cdn.net/Popcap_Still0_08.23.png?fit=fit&width=80&height=80&fm=jpeg&auto=format",
+    "middle_image": "https://rxdcoassets.b-cdn.net/Popcap_Still0_08.23.png?fit=fit&width=244&height=288&fm=jpeg&auto=format",
+    "name": "Pop Tops",
+    "favorite": true,
+    "purchased_count": 80,
+    "description": "Child resistant cannabis pop top bottles designed to seal in freshness."
+  },
+
+  {
+    "id": "glass-jar",
+    "image": "https://rxdcoassets.b-cdn.net/Glass-Jar_Still0_14.08.23.png?fit=fit&width=80&height=80&fm=jpeg&auto=format",
+    "middle_image": "https://rxdcoassets.b-cdn.net/Glass-Jar_Still0_14.08.23.png?fit=fit&width=1080&height=1080&fm=jpeg&auto=format&dpr=2",
+    "description": "Sleek, stylish custom jars to showcase your cannabis flower and edibles.",
+    "name": "Glass Jars"
+  },
+
+  {
+    "id": "axis-vape",
+    "image": "https://rxdcoassets.b-cdn.net/14_Axis-Vapes.png?fit=fit&width=80&height=80&fm=jpeg&auto=format",
+    "name": "AXIS",
+    "middle_image": "https://rxdcoassets.b-cdn.net/14_Axis-Vapes.png?fit=fit&width=1080&height=1080&fm=jpeg&auto=format&dpr=2",
+    "description": "Top tier cannabis performance with zero risk for the best marijuana concentrates"
+  },
+
+  {
+    "id": "plastic-jar",
+    "image": "https://rxdcoassets.b-cdn.net/12_Plastic-Jar.png?fit=fit&width=80&height=80&fm=jpeg&auto=format",
+    "middle_image": "https://rxdcoassets.b-cdn.net/12_Plastic-Jar.png?fit=fit&width=1080&height=1080&fm=jpeg&auto=format&dpr=2",
+    "description": "Affordable, customizable packaging for cannabis flower and edibles in jars that showcase your bud",
+    "name": "Plastic Jars"
+  },
+
+  {
+    "id": "exit-bag",
+    "name": "Exit Bags",
+    "image": "https://rxdcoassets.b-cdn.net/15_CR_Bags_v3.png?fit=fit&width=80&height=80&fm=jpeg&auto=format",
+    "middle_image": "https://rxdcoassets.b-cdn.net/15_CR_Bags_v3.png?fit=fit&width=1080&height=1080&fm=jpeg&auto=format&dpr=2",
+    "description": "Child safe laminated bags for cannabis products."
+  },
+
+  {
+    "id": "tincture-bottle",
+    "name": "Tincture Bottles",
+    "image": "https://rxdcoassets.b-cdn.net/16_Tincture-_No_triangle.png?fit=fit&width=80&height=80&fm=jpeg&auto=format",
+    "middle_image": "https://rxdcoassets.b-cdn.net/16_Tincture-_No_triangle.png?fit=fit&width=1080&height=1080&fm=jpeg&auto=format&dpr=2",
+    "description": "Child resistant dropper bottles designed for stylish CBD oil storage."
+  },
+
+  {
+    "id": "pearllock-slides",
+    "name": "PearlLock Slides",
+    "image": "https://rxdcoassets.b-cdn.net/9_Pearloc-Slide_Col_Fix.png?fit=fit&width=1080&height=1080&fm=jpeg&auto=format&dpr=2",
+    "middle_image": "https://rxdcoassets.b-cdn.net/9_Pearloc-Slide_Col_Fix.png?fit=fit&width=1080&height=1080&fm=jpeg&auto=format&dpr=2",
+    "description": "Paper constructed; CR certified, traditional cigarette style pre-roll slide boxes."
+  },
+  {
+    "id": "custom-labels",
+    "image": "https://rxdcoassets.b-cdn.net/17_Labels_Final_Transparent.png?fit=fit&width=80&height=80&fm=jpeg&auto=format",
+    "name": "Custom Labels",
+    "description": "Our top-quality labels will elevate your brand and set you apart from the competition, all while providing unbeatable value.",
+    "middle_image": "https://rxdcoassets.b-cdn.net/17_Labels_Final_Transparent.png?fit=fit&width=1080&height=1080&fm=jpeg&auto=format&dpr=2"
+  }
+]

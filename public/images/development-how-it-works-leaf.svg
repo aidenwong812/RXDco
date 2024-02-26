@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg aria-labelledby="title" width="286px" height="322px" viewBox="0 0 286 322" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Decorative Oval</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-38.000000, -20.000000)">
+            <g id="Group-9" transform="translate(-50.000000, -60.000000)">
+                <path d="M230.975534,32.6636831 C313.907308,102.109091 355.423077,171.542936 355.423077,241 C355.423077,309.853988 314.624764,378.685356 233.126574,447.527234 L233.126574,447.527234 L230.960837,449.347449 C148.020206,379.898329 106.5,310.460775 106.5,241 C106.5,171.538691 148.020844,102.100604 230.975534,32.6636831 Z" id="Rectangle" stroke="#D1D5D5" transform="translate(230.961538, 241.000000) scale(1, -1) rotate(-40.000000) translate(-230.961538, -241.000000) "></path>
+                <circle id="Oval" fill="#67DAA0" cx="351.23019" cy="283.101777" r="21"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

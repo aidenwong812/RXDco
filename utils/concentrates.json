@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c-series",
+    "name": "C Series",
+    "image": "https://rxdcoassets.b-cdn.net/c2-still0_08.23.png?fit=fit&width=80&height=80&fm=jpeg&auto=format",
+    "middle_image": "https://rxdcoassets.b-cdn.net/c2-still0_08.23.png?fit=fit&width=244&height=288&fm=jpeg&auto=format",
+    "favorite": true,
+    "purchased_count": 90,
+    "description": "Premium cannabis packaging with unmatched form and function",
+    "is_best_seller": true
+  },
+  {
+    "id": "droploc",
+    "name": "DropLoc",
+    "image": "https://rxdcoassets.b-cdn.net/7_Droploc_2023-08-03-132936_htxs.png?fit=fit&width=80&height=80&fm=jpeg&auto=format",
+    "middle_image": "https://rxdcoassets.b-cdn.net/7_Droploc_2023-08-03-132936_htxs.png?fit=fit&width=1080&height=1080&fm=jpeg&auto=format&dpr=2",
+    "description": "Revolutionary auto-loading cannabis tincture bottles with certified child resistant caps.",
+    "is_new": true
+  },
+  {
+    "id": "syringes",
+    "name": "Syringes",
+    "image": "https://rxdcoassets.b-cdn.net/Syringe-Updated.png?fit=fit&width=80&height=80&fm=jpeg&auto=format",
+    "middle_image": "https://rxdcoassets.b-cdn.net/Syringe-Updated.png?fit=fit&width=1080&height=1080&fm=jpeg&auto=format&dpr=2",
+    "description": "A mess-free cannabis filling solution for cartridges and precision dosing"
+  },
+  {
+    "id": "exit-bag",
+    "name": "Exit Bags",
+    "image": "https://rxdcoassets.b-cdn.net/15_CR_Bags_v3.png?fit=fit&width=80&height=80&fm=jpeg&auto=format",
+    "middle_image": "https://rxdcoassets.b-cdn.net/15_CR_Bags_v3.png?fit=fit&width=1080&height=1080&fm=jpeg&auto=format&dpr=2",
+    "description": "Child safe laminated bags for cannabis products."
+  },
+  {
+    "id": "tincture-bottle",
+    "name": "Tincture Bottles",
+    "image": "https://rxdcoassets.b-cdn.net/16_Tincture-_No_triangle.png?fit=fit&width=80&height=80&fm=jpeg&auto=format",
+    "middle_image": "https://rxdcoassets.b-cdn.net/16_Tincture-_No_triangle.png?fit=fit&width=1080&height=1080&fm=jpeg&auto=format&dpr=2",
+    "description": "Child resistant dropper bottles designed for stylish CBD oil storage."
+  }
+]

@@ -1,0 +1,107 @@
+.blog-entry__content {
+    font-family: 'Radikal Light';
+    margin-bottom: 64px;
+}
+
+.blog-entry__content p {
+    color: #7c7c7c;
+    font-weight: 300;
+    margin-bottom: 24px;
+}
+
+.blog-entry__content .heading {
+    margin: 20px 0px;
+    font-size: 1.75rem;
+    font-weight: 400;
+    line-height: 2.125rem;
+    color: #040404;
+}
+
+.blog-entry__content strong {
+    font-weight: 500;
+    color: #040404;
+}
+
+.blog-entry__content input {
+    border: 1px solid #040404;
+    background-color: transparent;
+}
+
+.blog-entry__content textarea {
+    border: 1px solid #040404;
+    background-color: transparent;
+}
+
+.blog-entry__content select {
+    border: 1px solid #040404;
+    background-color: transparent;
+}
+
+.blog-entry__content a:not(.btn) {
+    font-weight: 500;
+    text-decoration: underline;
+    color: #040404;
+}
+
+.blog-entry__content .module__image {
+    margin-top: 64px;
+}
+
+.blog-entry__content .module__image img {
+    display: block;
+    border-radius: 24px;
+    min-width: 100%;
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+}
+
+.blog-entry__content li {
+    margin-top: 12px;
+}
+
+.blog-entry__content ol, ul {
+    font-weight: 300;
+    color: #7c7c7c;
+    display: block;
+    list-style-type: decimal;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+.blog-entry__content li::marker {
+    unicode-bidi: isolate;
+    font-variant-numeric: tabular-nums;
+    text-transform: none;
+    text-indent: 0px !important;
+    text-align: start !important;
+    text-align-last: start !important;
+}
+
+.blog-entry__content .module__box {
+    margin-top: 64px;
+    padding: 48px 64px 40px;
+    border: 1px solid #dadada;
+    border-radius: 24px;
+}
+
+@media screen and (max-width: 810px) {
+    .blog-entry__content .module__box {
+        padding: 48px 24px;
+    }
+}
+
+.blog-entry__content blockquote {
+    font-weight: 500;
+    font-size: 2rem;
+    line-height: 1.25;
+    letter-spacing: -.666667px;
+    margin-bottom: 40px;
+}
+
+@media screen and (max-width: 810px) {
+    .blog-entry__content blockquote {
+        font-size: 1.5rem;
+    }
+}

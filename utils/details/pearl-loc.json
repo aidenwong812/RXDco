@@ -1,0 +1,29 @@
+{
+  "id": "pearl-loc",
+  "name": "PearlLoc",
+  "description": "Luxury Paper-based, child resistant boxes and tubes for vape hardware and cannabis products.",
+  "seo_title": "PearlLoc | Cannabis Paper-based Boxes and Tubes",
+  "seo_image": "https://rxdcoassets.b-cdn.net/14_Pearloc-prop.png?fit=crop&width=1250&auto=format&dpr=2",
+  "seo_description": "Fully affordable customizable PearlLoc paper-based boxes for cannabis vape hardware. Customization options including shape, size, color & labelling.",
+  "advantages": [
+    "Certified child resistant",
+    "Biodegradable",
+    "Extensive customization options",
+    "Ask about PearlLoc options made in the USA",
+    "Competitive wholesale pricing"
+  ],
+  "hero_image": "https://rxdcoassets.b-cdn.net/14_Pearloc-prop.png?fit=crop&width=1250&auto=format&dpr=2",
+  "first_video": "https://d3lxzeif4s50vo.cloudfront.net/Sleek-Aesthetics.mp4",
+  "first_title": "Sleek aesthetics",
+  "first_description": "PearlLoc tubes offer sleek, modern and sustainable secondary packaging for anything from pre-rolls to edibles and vapes.",
+  "second_video": "https://d3lxzeif4s50vo.cloudfront.net/Unlimited-Designs.mp4",
+  "second_title": "Unlimited designs",
+  "second_description": "Make your PearlLoc packaging uniquely yours with extensive printing, decoration, embossing, texture and branding options.",
+  "third_video": "https://d3lxzeif4s50vo.cloudfront.net/PearlLoc-Lite.mp4",
+  "third_title": "PearlLoc Lite",
+  "third_description": "Non CR boxes and tubes for a variety of packaging needs.",
+  "order_enabled": true,
+  "size_enabled": true,
+  "size_text": "Try it now",
+  "cta_image": "https://rxdcoassets.b-cdn.net/Wow_Pearloc_V3.png?fit=crop&width=445&height=370"
+}

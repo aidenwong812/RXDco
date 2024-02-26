@@ -1,0 +1,29 @@
+{
+  "id": "glass-jar",
+  "name": "Glass Jars",
+  "description": "Sleek, stylish custom jars to showcase your cannabis flower and edibles.",
+  "seo_title": "Cannabis Glass Jars | Custom Sizes | Wholesale",
+  "seo_description": "Fully affordable customizable glass jars for cannabis flower and edibles. Customization options including shape, size, color, labelling and printing.",
+  "seo_image": "https://rxdcoassets.b-cdn.net/17_Glass_Jars-prop.png?fit=crop&width=1250&auto=format&dpr=2",
+  "advantages": [
+    "Perfect for flower and edibles",
+    "Certified child resistant cannabis jars",
+    "Maintains flower and edibles purity",
+    "Multiple shapes and sizes",
+    "Great for shelf display in the cannabis dispensary",
+    "Design and customization options",
+    "Competitive wholesale pricing"
+  ],
+  "hero_image": "https://rxdcoassets.b-cdn.net/17_Glass_Jars-prop.png?fit=crop&width=1250&auto=format&dpr=2",
+  "first_video": "https://d3lxzeif4s50vo.cloudfront.net/Glass-Jars-Preserve-Your-Product.mp4",
+  "first_title": "Preserve your product",
+  "first_description": "Premier packaging designed to keep in freshness for longer and preserve the quality of your products. Ensures an excellent experience for your customers.",
+  "second_video": "https://d3lxzeif4s50vo.cloudfront.net/Glass-Jars-Add-Shelf-Appeal.mp4",
+  "second_title": "Add shelf appeal",
+  "second_description": "Sleek clear glass jars are perfect to showcase your products and give your brand serious shelf appeal.",
+  "third_video": "https://d3lxzeif4s50vo.cloudfront.net/Glass-Jars-Modify-to-fit-your-brand.mp4",
+  "third_title": "Modify to fit your brand",
+  "third_description": "Customization options including shape, size, cap color and labelling let you modify our glass jars to fit your brand.",
+  "order_enabled": true,
+  "size_enabled": false
+}

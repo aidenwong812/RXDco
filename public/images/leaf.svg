@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg aria-labelledby="title" width="188px" height="239px" viewBox="0 0 188 239" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Decorative Leaf</title>
+    <g id="1.-Homepage---OK" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desgin-4" transform="translate(-289.000000, -97.000000)">
+            <g id="Header" transform="translate(-315.610942, 97.810993)">
+                <g id="Leaf" transform="translate(604.675710, 0.000000)">
+                    <path d="M173.035435,0.54138839 C193.453148,71.5472573 190.443143,126.737021 163.903425,166.08377 C137.579985,205.109874 88.1338825,228.512262 15.6281973,236.373442 L15.6281973,236.373442 L13.8350284,236.563357 C-6.58268539,165.557488 -3.57267958,110.367725 22.9670378,71.0209761 C49.2904776,31.9948717 98.7365805,8.59248411 171.242266,0.73130407 L171.242266,0.73130407 Z" id="Rectangle" stroke="#D1D5D5"></path>
+                    <circle id="Oval" fill="#BECBDD" cx="80.4352315" cy="22.6890068" r="20.5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

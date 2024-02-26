@@ -1,0 +1,31 @@
+[
+  {
+    "id": "bi-tri-tubes",
+    "name": "Bi-Tri Tubes",
+    "image": "https://rxdcoassets.b-cdn.net/Bi_Tri_Still0_08.23.png?fit=fit&width=80&height=80&fm=jpeg&auto=format",
+    "middle_image": "https://rxdcoassets.b-cdn.net/Bi_Tri_Still0_08.23.png?fit=fit&width=1080&height=1080&fm=jpeg&auto=format&dpr=2",
+    "description": "Multi-Pack, child-resistant pre-roll tubes that maintain product integrity and potency."
+  },
+  {
+    "id": "pearl-loc",
+    "image": "https://rxdcoassets.b-cdn.net/PearlLoc-1.png?fit=fit&width=80&height=80&fm=jpeg&auto=format",
+    "middle_image": "https://rxdcoassets.b-cdn.net/PearlLoc-1.png?fit=fit&width=244&height=288&fm=jpeg&auto=format",
+    "name": "PearlLoc",
+    "description": "Luxury Paper-based, child resistant boxes and tubes for vape hardware and cannabis products.",
+    "is_featured": true
+  },
+  {
+    "id": "axis-vape",
+    "image": "https://rxdcoassets.b-cdn.net/14_Axis-Vapes.png?fit=fit&width=80&height=80&fm=jpeg&auto=format",
+    "name": "AXIS",
+    "middle_image": "https://rxdcoassets.b-cdn.net/14_Axis-Vapes.png?fit=fit&width=1080&height=1080&fm=jpeg&auto=format&dpr=2",
+    "description": "Top tier cannabis performance with zero risk for the best marijuana concentrates"
+  },
+  {
+    "id": "exit-bag",
+    "name": "Exit Bags",
+    "image": "https://rxdcoassets.b-cdn.net/15_CR_Bags_v3.png?fit=fit&width=80&height=80&fm=jpeg&auto=format",
+    "middle_image": "https://rxdcoassets.b-cdn.net/15_CR_Bags_v3.png?fit=fit&width=1080&height=1080&fm=jpeg&auto=format&dpr=2",
+    "description": "Child safe laminated bags for cannabis products."
+  }
+]

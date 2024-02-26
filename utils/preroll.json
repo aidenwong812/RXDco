@@ -1,0 +1,32 @@
+[
+  {
+    "id": "bi-tri-tubes",
+    "name": "Bi-Tri Tubes",
+    "image": "https://rxdcoassets.b-cdn.net/Bi_Tri_Still0_08.23.png?fit=fit&width=80&height=80&fm=jpeg&auto=format",
+    "middle_image": "https://rxdcoassets.b-cdn.net/Bi_Tri_Still0_08.23.png?fit=fit&width=1080&height=1080&fm=jpeg&auto=format&dpr=2",
+    "description": "Multi-Pack, child-resistant pre-roll tubes that maintain product integrity and potency."
+  },
+  {
+    "id": "tins-box",
+    "image": "https://rxdcoassets.b-cdn.net/10_Tin-Box.png?fit=fit&width=80&height=80&fm=jpeg&auto=format",
+    "middle_image": "https://rxdcoassets.b-cdn.net/10_Tin-Box.png?fit=fit&width=244&height=288&fm=jpeg&auto=format",
+    "name": "Pre-Roll Tins",
+    "favorite": true,
+    "purchased_count": 70,
+    "description": "Fully customizable pre-roll tin packaging that are great for edibles too! Customization options include: shape, size, color, labeling and printing."
+  },
+  {
+    "id": "preroll-pop-tops",
+    "image": "https://rxdcoassets.b-cdn.net/6_Pre-Roll-Pop_2023-08-03-133300_eavt.png?fit=fit&width=80&height=80&fm=jpeg&auto=format",
+    "name": "Pre-roll Pop Tops",
+    "description": "Child resistant custom cannabis pop tops perfectly proportioned for pre-rolls.",
+    "middle_image": "https://rxdcoassets.b-cdn.net/6_Pre-Roll-Pop_2023-08-03-133300_eavt.png?fit=fit&width=1080&height=1080&fm=jpeg&auto=format&dpr=2"
+  },
+  {
+    "id": "exit-bag",
+    "image": "https://rxdcoassets.b-cdn.net/15_CR_Bags_v3.png?fit=fit&width=80&height=80&fm=jpeg&auto=format",
+    "middle_image": "https://rxdcoassets.b-cdn.net/15_CR_Bags_v3.png?fit=fit&width=1080&height=1080&fm=jpeg&auto=format&dpr=2",
+    "description": "Child safe laminated bags for cannabis products.",
+    "name": "Exit Bags"
+  }
+]

@@ -1,0 +1,5 @@
+export enum ASIDE {
+  ABSOLUTE = "ABSOLUTE",
+  FIXED = "FIXED",
+  RELAITVE = "RELATIVE",
+}

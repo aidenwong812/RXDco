@@ -1,0 +1,58 @@
+[
+  {
+    "id": "atid",
+    "image": "https://rxdcoassets.b-cdn.net/1_Atid.png?fit=fit&width=80&height=80&fm=jpeg&auto=format",
+    "middle_image": "https://rxdcoassets.b-cdn.net/1_Atid.png?fit=fit&width=244&height=288&fm=jpeg&auto=format",
+    "name": "ATID",
+    "favorite": true,
+    "purchased_count": 100,
+    "is_new": true,
+    "description": "Protect your Flower, Edibles, Children, and our Planet with the patented, premium line of certified child-resistant, biodegradable cannabis paper containers."
+  },
+  {
+    "id": "child-resistant-bag",
+    "image": "https://rxdcoassets.b-cdn.net/4_CR_Bags_Col_Fix_20002.png?fit=fit&width=80&height=80&fm=jpeg&auto=format",
+    "middle_image": "https://rxdcoassets.b-cdn.net/4_CR_Bags_Col_Fix_20002.png?fit=fit&width=244&height=288&fm=jpeg&auto=format",
+    "name": "Child-resistant Bags",
+    "favorite": true,
+    "purchased_count": 30,
+    "description": "Laminated mylar bags for child safe, discreet cannabis product storage, transport and display."
+  },
+  {
+    "id": "tin-box",
+    "image": "https://rxdcoassets.b-cdn.net/10_Tin-Box.png?fit=fit&width=1080&height=1080&fm=jpeg&auto=format&dpr=2",
+    "name": "Pre-Roll Tins",
+    "description": "Fully customizable pre-roll tin packaging that are great for edibles too!     Customization options include: shape, size, color, labeling and printing.",
+    "middle_image": "https://rxdcoassets.b-cdn.net/10_Tin-Box.png?fit=fit&width=1080&height=1080&fm=jpeg&auto=format&dpr=2"
+  },
+  {
+    "id": "pop-tops",
+    "image": "https://rxdcoassets.b-cdn.net/Popcap_Still0_08.23.png?fit=fit&width=80&height=80&fm=jpeg&auto=format",
+    "middle_image": "https://rxdcoassets.b-cdn.net/Popcap_Still0_08.23.png?fit=fit&width=244&height=288&fm=jpeg&auto=format",
+    "name": "Pop Tops",
+    "favorite": true,
+    "purchased_count": 80,
+    "description": "Child resistant cannabis pop top bottles designed to seal in freshness."
+  },
+  {
+    "id": "glass-jar",
+    "image": "https://rxdcoassets.b-cdn.net/Glass-Jar_Still0_14.08.23.png?fit=fit&width=80&height=80&fm=jpeg&auto=format",
+    "middle_image": "https://rxdcoassets.b-cdn.net/Glass-Jar_Still0_14.08.23.png?fit=fit&width=1080&height=1080&fm=jpeg&auto=format&dpr=2",
+    "description": "Sleek, stylish custom jars to showcase your cannabis flower and edibles.",
+    "name": "Glass Jars"
+  },
+  {
+    "id": "plastic-jar",
+    "image": "https://rxdcoassets.b-cdn.net/12_Plastic-Jar.png?fit=fit&width=80&height=80&fm=jpeg&auto=format",
+    "middle_image": "https://rxdcoassets.b-cdn.net/12_Plastic-Jar.png?fit=fit&width=1080&height=1080&fm=jpeg&auto=format&dpr=2",
+    "description": "Affordable, customizable packaging for cannabis flower and edibles in jars that showcase your bud",
+    "name": "Plastic Jars"
+  },
+  {
+    "id": "exit-bag",
+    "image": "https://rxdcoassets.b-cdn.net/15_CR_Bags_v3.png?fit=fit&width=80&height=80&fm=jpeg&auto=format",
+    "middle_image": "https://rxdcoassets.b-cdn.net/15_CR_Bags_v3.png?fit=fit&width=1080&height=1080&fm=jpeg&auto=format&dpr=2",
+    "description": "Child safe laminated bags for cannabis products.",
+    "name": "Exit Bags"
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "id": "droploc",
+  "name": "DropLoc",
+  "description": "Revolutionary auto-loading cannabis tincture bottles with certified child resistant caps.",
+  "seo_title": "DropLoc | Cannabis Tincture Bottles",
+  "seo_description": "DropLocs are fully affordable customizable cannabis tincture bottles. Customization options including size, color, labelling and printing.",
+  "seo_image": "https://rxdcoassets.b-cdn.net/16_Droploc-prop.png?fit=crop&width=1250&auto=format&dpr=2",
+  "advantages": [
+    "Available exclusively at RXD Co",
+    "Automatic pump loading system",
+    "Offers a metered dose",
+    "Child resistant closure",
+    "Black, white or clear glass body",
+    "Gold, silver, black or frosted cap",
+    "Full Custom Artwork",
+    "Custom Colors Available",
+    "Competitive wholesale pricing"
+  ],
+  "hero_image": "https://rxdcoassets.b-cdn.net/16_Droploc-prop.png?fit=crop&width=1250&auto=format&dpr=2",
+  "first_image": "https://rxdcoassets.b-cdn.net/Render-C-Child-Resistance0.png?fit=crop&width=532&height=544&fm=jpeg&auto=format",
+  "first_title": "Novel system",
+  "first_description": "Traditional tincture bottles are basic in look and function. Our breakthrough auto-load cap system brings them into the 21st century, designed to appeal today’s sophisticated consumers.",
+  "second_image": "https://rxdcoassets.b-cdn.net/Render-D-Oil-Final0.png?fit=crop&width=505&height=448&fm=jpeg&auto=format",
+  "second_title": "Methodical dosing",
+  "second_description": "The functional, practical auto-load system draws the product as you open the cap. It reliably offers a precise metered dose for methodical, mindful consumption.",
+  "third_image": "https://rxdcoassets.b-cdn.net/Render-1.png?fit=crop&width=708&height=470&fm=jpeg&auto=format",
+  "third_title": "Insta-worthy design",
+  "third_description": "DropLoc’s sleek, stylish aesthetics will look as good on your customer’s bathroom shelves as it does on your brand’s social media channels.",
+  "order_enabled": true,
+  "size_enabled": true,
+  "size_text": "Try now",
+  "cta_image": "https://rxdcoassets.b-cdn.net/Droploc_V3_2022-05-04-180223_fzze.png?fit=crop&width=445&height=370"
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "atid",
+    "description": "Keep your cannabis packaging child-proof. The ATID is the world's first certified child-resistant biodegradable paper cans.",
+    "name": "ATID",
+    "image": "https://rxdcoassets.b-cdn.net/Atid_2023-08-01-092043_wfqq.png?fit=crop&width=500&height=540&fm=jpeg&auto=format"
+  },
+  {
+    "id": "c-series",
+    "description": "The ultimate cannabis packaging to preserve concentrates. Sleek, seamless containers for concentrates made from premium glass and sealed tight with a food grade teflon lined cap.",
+    "name": "C Series",
+    "image": "https://rxdcoassets.b-cdn.net/C-Series-v2-2_2023-08-01-093632_rstp.png?fit=crop&width=500&height=540&fm=jpeg&auto=format"
+  },
+  {
+    "id": "droploc",
+    "description": "Revolutionize your CBD oil with certified child resistant auto-loading tincture bottles.",
+    "name": "DropLoc",
+    "image": "https://rxdcoassets.b-cdn.net/droploc_feature_v2.png?fit=crop&width=500&height=540&fm=jpeg&auto=format"
+  },
+  {
+    "id": "axis-vape",
+    "description": "Superior, quality assured vaping hardware at unbeatable prices, top tier performance with zero risk.",
+    "image": "https://rxdcoassets.b-cdn.net/Axis_Feature_2023-08-01-092100_mgzk.png?fit=crop&width=500&height=540&fm=jpeg&auto=format",
+    "name": "AXIS"
+  },
+  {
+    "id": "pearl-loc",
+    "description": "Premium CR boxes and tubes for cannabis with custom printing options for tailor-made branding designs.",
+    "image": "https://rxdcoassets.b-cdn.net/Pearloc_Feature_v2.png?fit=crop&width=500&height=540&fm=jpeg&auto=format",
+    "name": "PearlLoc"
+  }
+]
