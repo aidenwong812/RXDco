@@ -27,6 +27,7 @@ function Input({
   disabled,
   label,
   placeholder,
+  type,
 }: IInput) {
   const [isFocused, setIsFocused] = useState(false)
 
@@ -75,6 +76,7 @@ function Input({
         onFocus={() => setIsFocused(true)}
         onBlur={() => setIsFocused(false)}
         disabled={disabled}
+        type={type}
       />
 
       {isFullyHooked && fieldError && fieldError?.message && (
