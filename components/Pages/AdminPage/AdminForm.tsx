@@ -4,11 +4,7 @@ import { validation } from "@/utils/admin"
 import InputForm from "./InputForm"
 
 const AdminForm = () => {
-  const {
-    handleSubmit,
-    handleError,
-    hasError,
-  } = useAdmin()
+  const { handleSubmit, handleError, hasError } = useAdmin()
 
   return (
     <Form
@@ -34,10 +30,7 @@ const AdminForm = () => {
       >
         Sign in
       </button>
-      <button
-        type="submit"
-        className="hover:text-[#1f5fea] text-[11px]"
-      >
+      <button type="submit" className="hover:text-[#1f5fea] text-[11px]">
         Forgot your password?
       </button>
     </Form>

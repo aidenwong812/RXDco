@@ -8,13 +8,7 @@ export const AdminProvider = ({ children }) => {
   const [userName, setUserName] = useState("")
   const [password, setPassword] = useState("")
   const [keepSigned, setKeepSigned] = useState(false)
-  const {
-    hasError,
-    setHasError,
-    handleReCaptcha,
-    handleError,
-    handleSuccess,
-  } = useRequestAlert()
+  const { hasError, setHasError, handleReCaptcha, handleError, handleSuccess } = useRequestAlert()
 
   const clearValues = () => {
     setUserName("")

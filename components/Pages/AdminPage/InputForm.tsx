@@ -2,14 +2,7 @@ import Input from "@/shared/Input"
 import { useAdmin } from "@/providers/AdminProvider"
 
 const InputForm = () => {
-  const {
-    userName,
-    setUserName,
-    password,
-    setPassword,
-    keepSigned,
-    setKeepSigned
-  } = useAdmin()
+  const { userName, setUserName, password, setPassword, keepSigned, setKeepSigned } = useAdmin()
   return (
     <div className="w-full flex flex-col">
       <Input
